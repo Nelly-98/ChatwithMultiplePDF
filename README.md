@@ -15,6 +15,8 @@ Correspondance des similitudes : lorsque vous posez une question, l'application 
 Génération de réponses : Les morceaux sélectionnés sont transmis au modèle linguistique, qui génère une réponse basée sur le contenu pertinent des PDF.
 
 
+
+
 --------------------INSTALLATION DES DEPENDANCES--------------------
 
 Pour installer l'application MultiPDF Chat, veuillez suivre les étapes suivantes :
@@ -28,6 +30,11 @@ pip install -r requirements.txt
 Obtenez une clé API auprès d'OpenAI et ajoutez-la au fichier .env dans le répertoire du projet.
 
 OPENAI_API_KEY=votre_clé_api_secret
+
+
+
+
+
 
 
 -------------------COMMENT UTILISER-------------------
